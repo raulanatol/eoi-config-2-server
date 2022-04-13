@@ -4,7 +4,8 @@ const port = 3000;
 
 const users = [
   { name: 'Marta' },
-  { name: 'Paco'  }
+  { name: 'Paco'  },
+  { name: 'Lucas' }
 ];
 
 app.get('/users', (req, res) => {
