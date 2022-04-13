@@ -1,0 +1,23 @@
+{
+  "name": "eoi-config-2-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulanatol/eoi-config-2-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raulanatol/eoi-config-2-server/issues"
+  },
+  "homepage": "https://github.com/raulanatol/eoi-config-2-server#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
